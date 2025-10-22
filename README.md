@@ -42,3 +42,5 @@ Want to expand coverage? We welcome **Python scripts** that can pull new data! T
 
 ## Access the App
 **[WindTracker.online](https://WindTracker.online)**
+<br><br><br><br>
+Instagram [@windtracker.online](https://www.instagram.com/windtracker.online/) for new country and feature updates. 
