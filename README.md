@@ -24,6 +24,7 @@ WindTracker.online aggregates data from various **Open Datas** provided by diffe
 🇪🇸 Spain
 🇰🇷 South Korea
 🇸🇪 Sweden
+🇨🇭 Switzerland
 🇹🇼 Taiwan
 🇺🇸 **US coastal areas and islands
 
