@@ -2,7 +2,30 @@
 
 **Track live wind observations from weather stations around the globe.**
 
-WindTracker.online aggregates data from various **Open Data APIs** provided by different national weather services. Please note that data availability, update intervals, and station coverage vary widely between countries.
+WindTracker.online aggregates data from various **Open Datas** provided by different national weather services. Please note that data availability, update intervals, and station coverage vary widely between countries.
+
+## Countris we have so far
+🇦🇺 Australia
+🇦🇹 Austria
+🇧🇷 Brazil
+🇭🇷 Croatia
+🇩🇰 Denmark
+🇪🇪 Estonia
+🇫🇮 Finland
+🇫🇷 France
+🇩🇪 Germany
+🇮🇪 Ireland
+🇱🇹 Lithuania
+🇳🇱 Netherlands
+🇳🇴 Norway
+🇵🇱 Poland
+🇵🇹 Portugal
+🇸🇮 Slovenia
+🇪🇸 Spain
+🇰🇷 South Korea
+🇸🇪 Sweden
+🇹🇼 Taiwan
+🇺🇸 **US coastal areas and islands
 
 ## Contribution & Feedback
 
